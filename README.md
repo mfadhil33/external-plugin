@@ -1,6 +1,6 @@
 # External-Plugin
 
-Nodejs->HapisJS
+Nodejs->HapiJS
 
 ## Instalasi
 
