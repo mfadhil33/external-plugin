@@ -14,7 +14,7 @@ git clone https://github.com/username/nama-proyek.git
 **2. Masuk ke direktori proyek::**
 
 ```bash
-git clone https://github.com/username/nama-proyek.git
+cd nama-proyek
 ```
 
 **3. Install dependensi menggunakan npm::**
